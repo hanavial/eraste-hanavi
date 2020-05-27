@@ -11,4 +11,21 @@
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
+## About Eraste
+Web tentang penjualan alat kosmetik atau produk kecantikan
+
 ## Cara Install Project
+1. Clone Project ke dalam htdocs/direktori yang dituju
+2. Buka terminal/prompt dan change direktori ke project ini
+3. Ketik composer install
+4. Konfigurasi file .env disesusuaikan dengan konfigurasi database
+5. Ketik php artisan key:generate
+6. Ketik php artisan migrate:fresh --seed
+7. Selesai 
+
+## Cara Penggunaan
+Login = Email : admin@admin.com Pass : admin
+
+php artisan serv untuk menjalankan web
+ketik / di browser untuk masuk ke menu belanja
+Ketik /backoff di browser untuk masuk ke menu Back Office milik admin
