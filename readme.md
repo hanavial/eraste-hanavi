@@ -24,8 +24,7 @@ Web tentang penjualan alat kosmetik atau produk kecantikan
 7. Selesai 
 
 ## Cara Penggunaan
-Login = Email : admin@admin.com Pass : admin
-
-php artisan serv untuk menjalankan web
-ketik / di browser untuk masuk ke menu belanja
-Ketik /backoff di browser untuk masuk ke menu Back Office milik admin
+1. Login = Email : admin@admin.com Pass : admin
+2. php artisan serv untuk menjalankan web
+3. ketik / di browser untuk masuk ke menu belanja
+4. Ketik /backoff di browser untuk masuk ke menu Back Office milik admin
