@@ -12,7 +12,7 @@
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
 ## About Eraste
-Web tentang penjualan alat kosmetik atau produk kecantikan
+Web tentang penjualan alat kosmetik atau produk kecantikan (Tugas Rekruitmen)
 
 ## Cara Install Project
 1. Clone Project ke dalam htdocs/direktori yang dituju
